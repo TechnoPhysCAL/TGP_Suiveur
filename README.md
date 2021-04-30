@@ -7,6 +7,9 @@ Les photodétecteurs doivent être commandées via un microcontrôleur UNO utili
 
 ## Notes de version
 
+### 1.0.1
+- Correction d'une typo pour les mots en couleurs
+ 
 ### 1.0.0
 - Version pour le nouveau programme en 2021. Permet maintenant de recevoir les valeurs brutes complètes des 6 capteurs.
  
